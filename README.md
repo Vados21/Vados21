@@ -1,9 +1,7 @@
 ### Hi there 👋
 ---
 Languages and tools
-![Python](https://img.shields.io/badge/PYTHON-090909?style=plastic&logo=python)
-![SQL](https://img.shields.io/badge/SQL-090909?style=plastic&logo=SQLite)
-![HTML](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=html5)
+![Python](https://img.shields.io/badge/PYTHON-090909?style=plastic&logo=python) ![DJANGO](https://img.shields.io/badge/DJANGO-090909?style=plastic&logo=DJANGO) ![SQL](https://img.shields.io/badge/SQL-090909?style=plastic&logo=SQLite) ![HTML](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=html5) ![CSS](https://img.shields.io/badge/CSS-090909?style=plastic&logo=css) 
 
 <!--
 **Vados21/Vados21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
