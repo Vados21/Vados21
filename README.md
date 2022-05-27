@@ -2,11 +2,11 @@
 ---
 ## Programming Languages
 
-![Python](https://img.shields.io/badge/PYTHON-090909?style=plastic&logo=python) ![DJANGO](https://img.shields.io/badge/DJANGO-090909?style=plastic&logo=DJANGO) ![SQL](https://img.shields.io/badge/SQL-090909?style=plastic&logo=SQLite) ![HTML](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=html5) ![CSS](https://img.shields.io/badge/CSS-090909?style=plastic&logo=css) 
+![Python](https://img.shields.io/badge/PYTHON-090909?style=plastic&logo=python) ![DJANGO](https://img.shields.io/badge/DJANGO-090909?style=plastic&logo=DJANGO) ![SQL](https://img.shields.io/badge/SQL-090909?style=plastic&logo=SQLite) ![HTML](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=html5) ![CSS](https://img.shields.io/badge/CSS-090909?style=plastic&logo=css3) ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-090909?style=plastic&logo=bootstrap)
 
 ## Tools
 
-![GIT](https://img.shields.io/badge/GIT-090909?style=plastic&logo=github) ![VSCode](https://img.shields.io/badge/VSCode-090909?style=plastic&logo=visualstudio)
+![GIT](https://img.shields.io/badge/GIT-090909?style=plastic&logo=github) ![VSCode](https://img.shields.io/badge/VSCode-090909?style=plastic&logo=visualstudio) ![POWERSHELL](https://img.shields.io/badge/POWERSHELL-090909?style=plastic&logo=powershell)
 <!--
 **Vados21/Vados21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
