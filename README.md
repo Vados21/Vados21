@@ -7,6 +7,9 @@
 ## Tools
 
 ![GIT](https://img.shields.io/badge/GIT-090909?style=plastic&logo=github) ![VSCode](https://img.shields.io/badge/VSCode-090909?style=plastic&logo=visualstudio) ![POWERSHELL](https://img.shields.io/badge/POWERSHELL-090909?style=plastic&logo=powershell)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vados21&count_private=true)
+
 <!--
 **Vados21/Vados21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
