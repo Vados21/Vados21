@@ -1,5 +1,5 @@
 ### Hello I'm Vadim 👋
-<img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="40" height="40" />
+<img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="400" height="400" />
 
 ---
 ## Programming Languages
