@@ -1,6 +1,6 @@
 ### Hello I'm Vadim 👋
 
-<img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="400" height="400" />
+![Alt Text](https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e4751vpxuzt7mudmiyeoegkuoenhzokhxpalrbuzcni&rid=giphy.gif&ct=g)
 ---
 ## Programming Languages
 
