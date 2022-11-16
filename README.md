@@ -1,5 +1,5 @@
 ### Hello I'm Vadim 👋
-<img src="[[[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e4751vpxuzt7mudmiyeoegkuoenhzokhxpalrbuzcni&rid=giphy.gif&ct=g)](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)](https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)" width="40" height="40" />
+<img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="40" height="40" />
 
 ---
 ## Programming Languages
