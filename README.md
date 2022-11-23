@@ -14,6 +14,7 @@
 ![https://www.facebook.com/vadim.shpilevskiy/](https://img.shields.io/badge/FACEBOOK-090909?style=plastic&logo=facebook) 
 ![https://www.instagram.com/vados21/](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=instagram) 
 ![https://t.me/vados21](https://img.shields.io/badge/TELEGRAM-090909?style=plastic&logo=TELEGRAM)
+![https://www.linkedin.com/in/vados21/](https://img.shields.io/badge/Linkedin-090909?style=plastic&logo=Linkedin)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vados21&count_private=true)
