@@ -15,6 +15,9 @@
 ![https://www.instagram.com/vados21/](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=instagram) 
 ![https://t.me/vados21](https://img.shields.io/badge/TELEGRAM-090909?style=plastic&logo=TELEGRAM)
 ![https://www.linkedin.com/in/vados21/](https://img.shields.io/badge/Linkedin-090909?style=plastic&logo=Linkedin)
+<a href=”[https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/vados21/)"><img align=”left” src=”[https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg](https://camo.githubusercontent.com/930113f2c6f0d7647402430a007e93024b070892a5dd3d61e3a948e8f94e0800/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3039303930393f7374796c653d706c6173746963266c6f676f3d4c696e6b6564696e)" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vados21&count_private=true)
