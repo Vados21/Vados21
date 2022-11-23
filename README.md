@@ -11,12 +11,18 @@
 ![GIT](https://img.shields.io/badge/GIT-090909?style=plastic&logo=github) ![VSCode](https://img.shields.io/badge/VSCode-090909?style=plastic&logo=visualstudio) ![POWERSHELL](https://img.shields.io/badge/POWERSHELL-090909?style=plastic&logo=powershell) ![POSTMAN](https://img.shields.io/badge/POSTMAN-090909?style=plastic&logo=postman)
 
 ### Connect with me 😃
-![https://www.facebook.com/vadim.shpilevskiy/](https://img.shields.io/badge/FACEBOOK-090909?style=plastic&logo=facebook) 
-![https://www.instagram.com/vados21/](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=instagram) 
-![https://t.me/vados21](https://img.shields.io/badge/TELEGRAM-090909?style=plastic&logo=TELEGRAM)
-![https://www.linkedin.com/in/vados21/](https://img.shields.io/badge/Linkedin-090909?style=plastic&logo=Linkedin)
+
 <a href="https://www.linkedin.com/in/vados21/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.facebook.com/vadim.shpilevskiy/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+<a href="https://www.instagram.com/vados21/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://t.me/vados21">
+  <img src="https://img.shields.io/badge/TELEGRAM-090909?style=plastic&logo=TELEGRAM">
 </a>
 
 
