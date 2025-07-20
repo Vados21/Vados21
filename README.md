@@ -1,48 +1,62 @@
-### Hello I'm Vadim 👋
+
+
+# 👋 Hi, I'm Vadim Shpilevskiy  
+**DevOps-oriented Backend Developer**  
+Helsinki, Finland  
+🔗 [GitHub](https://github.com/Vados21) | [LinkedIn](https://www.linkedin.com/in/vados21/)
+
 <img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="400" height="400" />
 
 ---
-## Programming Languages
 
-![Python](https://img.shields.io/badge/PYTHON-090909?style=plastic&logo=python) ![DJANGO](https://img.shields.io/badge/DJANGO-090909?style=plastic&logo=DJANGO) ![SQL](https://img.shields.io/badge/SQL-090909?style=plastic&logo=SQLite) ![HTML](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=html5) ![CSS](https://img.shields.io/badge/CSS-090909?style=plastic&logo=css3) ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-090909?style=plastic&logo=bootstrap)
+## 🚀 Tech Stack
 
-## Tools
+### ⚙️ Languages & Frameworks
 
-![GIT](https://img.shields.io/badge/GIT-090909?style=plastic&logo=github) ![VSCode](https://img.shields.io/badge/VSCode-090909?style=plastic&logo=visualstudio) ![POWERSHELL](https://img.shields.io/badge/POWERSHELL-090909?style=plastic&logo=powershell) ![POSTMAN](https://img.shields.io/badge/POSTMAN-090909?style=plastic&logo=postman)
+![Python](https://img.shields.io/badge/PYTHON-090909?style=plastic&logo=python)  
+![FastAPI](https://img.shields.io/badge/FASTAPI-090909?style=plastic&logo=fastapi) ![Django](https://img.shields.io/badge/DJANGO-090909?style=plastic&logo=django)  
+![C](https://img.shields.io/badge/C-090909?style=plastic&logo=c) ![Bash](https://img.shields.io/badge/BASH-090909?style=plastic&logo=gnu-bash) ![SQL](https://img.shields.io/badge/SQL-090909?style=plastic&logo=postgresql)  
+![Jinja2](https://img.shields.io/badge/JINJA2-090909?style=plastic&logo=jinja)
 
-### Connect with me 😃
+---
 
-<a href="https://www.linkedin.com/in/vados21/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.facebook.com/vadim.shpilevskiy/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-<a href="https://www.instagram.com/vados21/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://t.me/vados21">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+### 🛠 Tools & DevOps
 
+![Docker](https://img.shields.io/badge/DOCKER-090909?style=plastic&logo=docker) ![Nginx](https://img.shields.io/badge/NGINX-090909?style=plastic&logo=nginx)  
+![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-090909?style=plastic&logo=githubactions) ![Systemd](https://img.shields.io/badge/SYSTEMD-090909?style=plastic&logo=linux)  
+![Makefile](https://img.shields.io/badge/MAKEFILES-090909?style=plastic&logo=gnu)  
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-090909?style=plastic&logo=postgresql)  
+![PgAdmin](https://img.shields.io/badge/PGADMIN-090909?style=plastic&logo=pgadmin)  
+![Prometheus](https://img.shields.io/badge/PROMETHEUS-090909?style=plastic&logo=prometheus) ![Grafana](https://img.shields.io/badge/GRAFANA-090909?style=plastic&logo=grafana) ![Loki](https://img.shields.io/badge/LOKI-090909?style=plastic&logo=grafana)  
 
+---
 
+### 🖥 Environments & Cloud
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vados21&count_private=true)
+![Ubuntu](https://img.shields.io/badge/UBUNTU%2022.04-090909?style=plastic&logo=ubuntu)  
+![DigitalOcean](https://img.shields.io/badge/DIGITALOCEAN-090909?style=plastic&logo=digitalocean)  
+![VPS](https://img.shields.io/badge/VPS-090909?style=plastic&logo=serverfault)
 
+---
 
+## 📌 Notable Projects
 
-<!--
-**Vados21/Vados21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **🎮 Music Guessing Game App** – Built with FastAPI, PostgreSQL, Celery, and Docker. Includes YouTube music scraping and interactive game logic.
+- **🧼 B2B Car Wash Platform** – QR-code-based authorization, JWT-role system, CI/CD with GitHub Actions, monitoring with Grafana and Prometheus.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education
+
+- **Hive Helsinki – 42 Network Program by Supercell (2024–2025)**  
+  Focus on Linux, Bash, low-level C, Makefiles, Git & system programming.
+
+- **Moscow State University of Railway Engineering (MIIT) (2009–2014)**  
+  Specialist in Railway Transport Organization & Management.
+
+- **Yandex Practicum (2020)**  
+  Backend Developer program.
+
+---
+
+Thanks for visiting! 🚀
