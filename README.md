@@ -41,7 +41,7 @@ Helsinki, Finland
 
 ## 📌 Notable Projects
 
-- **🎮 Music Guessing Game App** – Built with FastAPI, PostgreSQL, Celery, and Docker. Includes YouTube music scraping and interactive game logic.
+- **🎮 Music Guessing Game App** – Built with FastAPI, PostgreSQL, Celery and Docker. Includes music scraping and interactive game logic.
 - **🧼 B2B Car Wash Platform** – QR-code-based authorization, JWT-role system, CI/CD with GitHub Actions, monitoring with Grafana and Prometheus.
 
 ---
